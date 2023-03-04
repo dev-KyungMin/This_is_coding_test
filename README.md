@@ -17,3 +17,5 @@
 > - git commit -m “커밋 메세지” : 커밋 메세지 쓰기.
 > 
 > - git push <원격 브랜치 이름> <깃 브랜치 이름> : push한다.
+>
+> - git status : 현재 git의 상태를 보여준다.
