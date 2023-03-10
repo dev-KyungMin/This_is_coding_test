@@ -21,3 +21,5 @@
 > - git status : 현재 git의 상태를 보여준다.
 >
 > - git config --global user.email 내이메일@주소 : commit 할 때 사용되는 이메일과 반영되길 바라는 GitHub계정의 이메일이 일치하지 않읋때 일치 시키기 위한 명령어.
+>
+> - git config --global user.email : 위 명령어로 제대로 등록이 됐을 시 내이메일@주소 가 나온다.
