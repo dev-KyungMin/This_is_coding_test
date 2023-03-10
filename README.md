@@ -19,3 +19,5 @@
 > - git push <원격 브랜치 이름> <깃 브랜치 이름> : push한다.
 >
 > - git status : 현재 git의 상태를 보여준다.
+>
+> - git config --global user.email 내이메일@주소 : commit 할 때 사용되는 이메일과 반영되길 바라는 GitHub계정의 이메일이 일치하지 않읋때 일치 시키기 위한 명령어.
